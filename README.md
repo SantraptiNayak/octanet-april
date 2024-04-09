@@ -23,3 +23,12 @@ Octanet Web Development Internship Program: This project was completed during th
 
 # Sanpshots: 
 
+
+![1](https://github.com/SantraptiNayak/octanet-april/assets/107788748/bcb893f2-35bd-4ef5-9cfb-20f473d69c2f)
+
+
+![2](https://github.com/SantraptiNayak/octanet-april/assets/107788748/3a151ea3-8ad0-4226-a386-f084acdcfda1)
+
+
+![3](https://github.com/SantraptiNayak/octanet-april/assets/107788748/35dc08b1-f017-4fb6-bd22-a171a9aea19f)
+

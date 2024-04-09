@@ -3,8 +3,11 @@ The website serves as a comprehensive landing page for a company specializing in
 
 # Tools and Technologies Used:
  • HTML5: Standard markup language for structuring and presenting content on the web.
+ 
  • CSS3: Style sheet language used for describing the presentation of HTML elements.
+ 
  • Google Fonts: External library for custom typography on the website.
+ 
  • Atom: Development environment for coding and experimentation.
  
 # Acknowledgements
@@ -13,6 +16,7 @@ Octanet Web Development Internship Program: This project was completed during th
 
 # External Resources:
  • Images: High-quality visuals used on the landing page are sourced from external URLs.
+ 
  • YouTube: An embedded video from YouTube illustrates the benefits of consuming apples, enriching the content.
 
 # link:

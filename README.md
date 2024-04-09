@@ -20,8 +20,9 @@ Octanet Web Development Internship Program: This project was completed during th
  • YouTube: An embedded video from YouTube illustrates the benefits of consuming apples, enriching the content.
 
 # link:
+https://santraptinayak.github.io/octanet-april/
 
-# Sanpshots: https://santraptinayak.github.io/octanet-april/
+# Sanpshots: 
 
 
 ![1](https://github.com/SantraptiNayak/octanet-april/assets/107788748/bcb893f2-35bd-4ef5-9cfb-20f473d69c2f)

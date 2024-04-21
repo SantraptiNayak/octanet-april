@@ -1,6 +1,7 @@
 This is about the tasks I performed during internship at OctaNet Services pvt. Ltd 
 
-# Task - 1:  Landing Page using HTML and CSS
+# Task - 1:  Landing Page
+
 The assigned task involves creating a landing page using HTML and CSS. The goal is to design an engaging and visually appealing webpage that effectively communicates a message or purpose. For this task, I followed a structured approach to design a clean and responsive landing page. The key elements of my approach include:
 
 # Task - 2:  To-Do List 
